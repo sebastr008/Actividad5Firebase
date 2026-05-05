@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "558192103571",
+    "firebase_url": "https://actividad5unityfirebase-default-rtdb.firebaseio.com",
+    "project_id": "actividad5unityfirebase",
+    "storage_bucket": "actividad5unityfirebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558192103571:android:8b5313034d4e48fd037d66",
+        "android_client_info": {
+          "package_name": "com.sebitas.actividad5firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyKuM0FOv9b1PVPZdxwz5wW8WClTq_lB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
